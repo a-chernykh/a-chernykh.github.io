@@ -1,0 +1,12 @@
+# Site settings
+title: Andrey Chernih
+email: andrey.chernih@gmail.com
+description: "Just some tech stuff"
+baseurl: ""
+url: "http://andrey.chernih.me"
+username: andrey.chernih
+twitter_username: brainslug
+
+# Build settings
+markdown: kramdown
+permalink: pretty

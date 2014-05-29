@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 ---
 
 We're saving photos of all recognized traffic signs in [RoadAR] on Amazon S3 bucket. There's a regular process when some of those files should be downloaded, cropped and feeded to the machine learning algorithm which produces SVM output file used in our recognizer. The problem that there's quite a few of such files to be downloaed in one batch (can be 300-400k at our current scale). I am going to cover 3 different ways of downloading multiple files in Ruby:

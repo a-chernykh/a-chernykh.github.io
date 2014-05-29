@@ -1,12 +1,14 @@
 # Site settings
 title: Andrey Chernih
 email: andrey.chernih@gmail.com
-description: "Just some tech stuff"
+description: "Ruby on Rails, DevOps, Java and Android"
 baseurl: ""
 url: "http://andrey.chernih.me"
-username: andrey.chernih
+username: andreychernih
 twitter_username: brainslug
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+highlighter: pygments

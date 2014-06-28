@@ -1,6 +1,3 @@
----
----
-
 $ ->
   $('#net_http_benchmarks').highcharts
     chart:

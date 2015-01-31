@@ -1,7 +1,7 @@
 /* Base */
 /* ----------------------------------------------------------*/
 
-* {
+*, menu, ol, ul {
   margin: 0;
   padding: 0;
 }
@@ -24,16 +24,21 @@ a:visited { color: #205caa; }
 
 /* Utility */
 
-.wrap:before,
-.wrap:after { content:""; display:table; }
-.wrap:after { clear: both; }
 .wrap {
-  max-width: 800px;
+  max-width: 1000px;
   padding: 0 30px;
   margin: 0 auto;
   zoom: 1;
 }
 
+ul.projects {
+  padding-right: 1em;
+  list-style: none;
+}
+
+ul.projects li {
+  margin-bottom: 2em;
+}
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/
@@ -78,6 +83,7 @@ a:visited { color: #205caa; }
 .site-footer {
   border-top: 1px solid #e8e8e8;
   padding: 30px 0;
+  clear: both;
 }
 
 .footer-heading {
@@ -143,8 +149,6 @@ a:visited { color: #205caa; }
 
 /* Home styles */
 /* ----------------------------------------------------------*/
-
-.home h1 { margin-bottom: 25px; }
 
 .posts { list-style-type: none; }
 

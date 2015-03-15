@@ -1,3 +1,3 @@
 # Run
 
-`jekyll serve`
+`jekyll serve --drafts`

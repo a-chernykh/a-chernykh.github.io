@@ -247,6 +247,10 @@ ul.projects li {
 
 .post pre code { border: none; }
 
+pre > code {
+  padding-left: 0px !important;
+}
+
 /* terminal */
 .post pre.terminal {
   border: 1px solid #000;

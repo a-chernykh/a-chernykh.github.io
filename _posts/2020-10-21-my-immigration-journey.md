@@ -100,9 +100,9 @@ interview where you need to prove that you are eligible to become a naturalized 
 then the very last step is Oath Ceremony where you swear that you will be a good citizen and will support US constitution.
 
 The processing time is different and depends on where you live and how busy your local USCIS office is. For me, the process took almost exactly 1 year since San Jose office is one of the slowest in the country. Also, there were multiple cancellations 
-along the way that made this experience for me unnecessary stressful. First, my interview was cancelled and re-scheduled as it was initially scheduled for December 24th that was declared a federal holiday a few weeks before the date of the interview.
+along the way that made this experience for me unnecessary stressful. First, my interview was canceled and re-scheduled as it was initially scheduled for December 24th that was declared a federal holiday a few weeks before the date of the interview.
 They gave me a new date which was at the end of January. The interview was quite easy - I prepared very well for the test and I was recommended for approval. Now I started patiently waiting for my naturalization ceremony to be scheduled. After it was scheduled, 
-the coronavirus pandemic hit. The ceremony got cancelled and they did not provide me with the next date since USCIS closed all their offices. It was a very stressful experience for me since I was left in a limbo of not completing my naturalization process fully.
+the coronavirus pandemic hit. The ceremony got canceled and they did not provide me with the next date since USCIS closed all their offices. It was a very stressful experience for me since I was left in a limbo of not completing my naturalization process fully.
 
 USCIS has finally started to re-open and I received a new date from them which was June 9th. Unfortunately, it was not the ceremony that I expected. Due to Covid-19 restrictions, it felt more like a drive-through experience in McDonalds. It was performed in the
 parking lot. I only left my car twice - first to say "I do" as USCIS offical was citing the Oath of Allegiance and second time - to receive my naturalization certificate. Despite all this, it was still a very meaningful event in my life and I was really happy

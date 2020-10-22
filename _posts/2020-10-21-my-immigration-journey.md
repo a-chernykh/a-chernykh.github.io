@@ -4,20 +4,20 @@ comments: true
 title: My immigration journey
 ---
 
-The year of 2020 has been weird in many ways but it also marks a very significant milestone in my life. After 6 years living here, I have finally become a naturalized citizen of the United States.
+The year 2020 has been weird in many ways but it also marks a very significant milestone in my life. After 6 years living here, I have finally become a naturalized citizen of the United States.
 
 ## DV Lottery
 
 I was born in Russia and spent 28 years living there in my hometown of Kazan. It is a beautiful 1000 years old city with a very diverse, multi-cultural background and astonishing architectural views. Despite that, Russia is not the
-best country to live in due to political climate and significant human rights violations that are happening every single day. Also, being a Software Engineer, I did not see a lot of good job opportunities back there.
+best country to live in due to the political climate and significant human rights violations that are happening every single day. Also, being a Software Engineer, I did not see a lot of good job opportunities back there.
 
-I was always obsessed with American culture and the American way of life so I decided to take my chance in DV Lottery that US government is conducting every year. This program is a chance 
-for citizens of under-represented nationalities to establish permanent residenship in the United States. The participation is free and only requires filling the form with personal information
+I was always obsessed with American culture and the American way of life so I decided to take my chance in DV Lottery that the US government is conducting every year. This program is a chance 
+for citizens of under-represented nationalities to establish permanent residence in the United States. Participation is free and only requires filling the form with personal information
 and uploading a photo. You will get a confirmation number that you can use one year after to check if you've been selected or not. If you are selected then the next step is to pass the interview at the
-US Consulate in the country where you live in. During this interview you need to prove that you will be a resident of a good moral character and won't become a public charge. Also, all selectees along with 
+US Consulate in the country where you live. During this interview, you need to prove that you will be a resident of a good moral character and won't become a public charge. Also, all selectees along with 
 their family members are expected to do the necessary vaccination and to pass medical exam. I was really lucky to get selected in the draw of 2013. That's the time when my immigration journey has started.
 
-Disclaimer: I know that a lot of people are having much more difficult stories than mine. For instance, H1B visas are much harder to obtain and path to citizenship is longer for such visa holders. Also,
+Disclaimer: I know that a lot of people are having much more difficult stories than mine. For instance, H1B visas are much harder to obtain and the path to citizenship is longer for such visa holders. Also,
 some countries have a very large backlog of people applying for a green card (hello, India). So, it is not uncommon for someone from India to wait for more than 10 years to get their greencard. My experience is
 relatively simpler but it is still worth describing.
 
@@ -26,21 +26,21 @@ relatively simpler but it is still worth describing.
 If you are selected as a winner of DV lottery, you are assigned case number. Based on this number, you will be invited for an interview into the US consulate. However,
 not all selectees are deciding to proceed further with the process. Some of them despite the fact that they won, decide not to move on because the circumstances might have changed for them or simply because they are
 too scared to make a significant change in their lifes. When you are moving into a new country, you typically loose a lot of things that you established - support system of family and friends, career, ability to communicate
-with others efficiently just by using your native language. For lots of applicants this is a lot to take and not everyone decide to proceed when it comes to taking real actions. For this particular reason, US typically
+with others efficiently just by using your native language. For lots of applicants, this is a lot to take and not everyone decides to proceed when it comes to taking real actions. For this particular reason, US typically
 selects more winners than it can give visas to. The lower your case number, the higher the chances that you will eventually get the interview. If your case number is too high then it is likely that US will run out if visas
 to give before it's your turn. The limit is 55,000 visas, however, every year they select 100,000 winners.
 
 I was given a very high number which means I was left in a very stressful limbo that lasted more than a year. I was a selectee, however, it was not guaranteed that I will be even given a chance to pass the interview. It turned out 
-well for me - I received invitation for interview. It was held in August in Moscow's US embassy. August was the very last month before they actually ran out of visas. I got really lucky, for the second time.
+well for me - I received an invitation for an interview. It was held in August in Moscow's US embassy. August was the very last month before they actually ran out of visas. I got really lucky, for the second time.
 
-Before interview, I was required to pass medical exam and complete all necessary vaccinations. Since American and Russian medical standards are different, I realized that I was missing quite a few. When I showed up at the doctor's office,
+Before the interview, I was required to pass medical exam and complete all necessary vaccinations. Since American and Russian medical standards are different, I realized that I was missing quite a few. When I showed up at the doctor's office,
 I was administered 4 shots with different vaccines at the same time. I felt really funky that evening but I was fine the next day.
 
 ## Job search
 
-Even before my interview I started looking for a job in the US. Having a job offer, although not required, is a really good way to support your application during interview. Someone who has a job is much less likely to become a public charge.
+Even before my interview, I started looking for a job in the US. Having a job offer, although not required, is a really good way to support your application during interview. Someone who has a job is much less likely to become a public charge.
 Despite the fact that I have worked with US-based clients previously and my English was good, it has been a very new experience for me. There was a huge amount of stress involved since I rarely spoke with somebody over the phone in English. There's
-been challenges understanding and experessing my thoughts verbally in English. Also, the interviewing process, in general, is very different compared to the one that I am used to. Typically, during technical interviews Software Engineering candidates are
+been challenges understanding and expressing my thoughts verbally in English. Also, the interviewing process, in general, is very different compared to the one that I am used to. Typically, during technical interviews, Software Engineering candidates are
 required to complete coding challenges that rarely have anything to do with the real day to day work. The fact that having years of experience solving real business problems is not enough to be hired still haunts me. Unfortunately, the common practice
 is that you are expected to prepare for interview by studying data structures, algorithms and training on websites like leetcode.com.
 
@@ -104,7 +104,7 @@ along the way that made this experience for me unnecessary stressful. First, my 
 They gave me a new date which was at the end of January. The interview was quite easy - I prepared very well for the test and I was recommended for approval. Now I started patiently waiting for my naturalization ceremony to be scheduled. After it was scheduled, 
 the coronavirus pandemic hit. The ceremony got cancelled and they did not provide me with the next date since USCIS closed all their offices. It was a very stressful experience for me since I was left in a limbo of not completing my naturalization process fully.
 
-USCIS have finally started to re-open and I received a new date from them which was June 9th. Unfortunately, it was not the ceremony that I expected. Due to Covid-19 restrictions, it felt more like a drive-through experience in McDonalds. It was performed in the
+USCIS has finally started to re-open and I received a new date from them which was June 9th. Unfortunately, it was not the ceremony that I expected. Due to Covid-19 restrictions, it felt more like a drive-through experience in McDonalds. It was performed in the
 parking lot. I only left my car twice - first to say "I do" as USCIS offical was citing the Oath of Allegiance and second time - to receive my naturalization certificate. Despite all this, it was still a very meaningful event in my life and I was really happy
 that this process was finally over.
 

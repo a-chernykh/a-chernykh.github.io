@@ -1,9 +1,9 @@
 # Site settings
-title: Andrey Chernih
+title: Andrey Chernykh
 email: andrey.chernih@gmail.com
-description: "Ruby on Rails, DevOps, Java and Android"
+description: "Software Engineering and things"
 baseurl: ""
-url: "http://andrey.chernih.me"
+url: "https://andreychernih.github.io"
 username: andreychernih
 twitter_username: brainslug
 

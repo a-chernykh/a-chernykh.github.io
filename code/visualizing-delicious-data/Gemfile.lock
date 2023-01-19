@@ -1,16 +1,14 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    activemodel (4.1.4)
-      activesupport (= 4.1.4)
-      builder (~> 3.1)
-    activesupport (4.1.4)
-      i18n (~> 0.6, >= 0.6.9)
-      json (~> 1.7, >= 1.7.7)
-      minitest (~> 5.1)
-      thread_safe (~> 0.1)
-      tzinfo (~> 1.1)
-    builder (3.2.2)
+    activemodel (7.0.4.1)
+      activesupport (= 7.0.4.1)
+    activesupport (7.0.4.1)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (>= 1.6, < 2)
+      minitest (>= 5.1)
+      tzinfo (~> 2.0)
+    concurrent-ruby (1.1.10)
     delicious (1.0.0)
       activemodel
       activesupport
@@ -21,14 +19,13 @@ GEM
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.9.1)
       faraday (>= 0.7.4, < 0.10)
-    i18n (0.6.9)
-    json (1.8.1)
-    minitest (5.3.5)
+    i18n (1.12.0)
+      concurrent-ruby (~> 1.0)
+    minitest (5.17.0)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
-    thread_safe (0.3.4)
-    tzinfo (1.2.1)
-      thread_safe (~> 0.1)
+    tzinfo (2.0.5)
+      concurrent-ruby (~> 1.0)
 
 PLATFORMS
   ruby
